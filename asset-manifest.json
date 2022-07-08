@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cloneone/static/css/main.7af0d67e.css",
+    "main.js": "/cloneone/static/js/main.48c32d99.js",
+    "static/media/header-photo.jpg": "/cloneone/static/media/header-photo.d5bf632fda481ba1e79f.jpg",
+    "static/media/3.png": "/cloneone/static/media/3.53464137662e2e80521c.png",
+    "static/media/2.png": "/cloneone/static/media/2.912b3a43516549141db0.png",
+    "static/media/mid.png": "/cloneone/static/media/mid.3fe10a666c6a48cd6c03.png",
+    "static/media/8.png": "/cloneone/static/media/8.3189cc45fae705b10875.png",
+    "static/media/7.png": "/cloneone/static/media/7.13dddccfca17931b67e2.png",
+    "static/media/5.png": "/cloneone/static/media/5.3c62370db3c790e0b6f9.png",
+    "static/media/4.png": "/cloneone/static/media/4.df987249627c8689ccb5.png",
+    "static/media/6.png": "/cloneone/static/media/6.dd036f582eb41b4cc0e4.png",
+    "static/media/1.png": "/cloneone/static/media/1.4edb82d41646d6f9bec1.png",
+    "index.html": "/cloneone/index.html",
+    "main.7af0d67e.css.map": "/cloneone/static/css/main.7af0d67e.css.map",
+    "main.48c32d99.js.map": "/cloneone/static/js/main.48c32d99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7af0d67e.css",
+    "static/js/main.48c32d99.js"
+  ]
+}
